@@ -1,8 +1,6 @@
 # clube-de-quadra-api
 UFRN Database class final project
 
-To install all dependecies
-npm init
+To install all dependecies use: npm init
 
-To run API
-npm start
+To run API use: npm start
