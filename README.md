@@ -1,5 +1,5 @@
 # clube-de-quadra-api
-UFRN Database class final project
+PROCESSOS DE SOFTWARE U3
 
 To install all dependecies use: npm init
 
